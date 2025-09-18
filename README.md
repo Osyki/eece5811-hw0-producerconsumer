@@ -32,3 +32,6 @@ Consumer: 4
 Producer: 5
 Consumer: 5
 ```
+## Libraries used:
+- `<iostream>`: For input and output operations.
+- `<sys/wait.h>`: For waiting on child processes.
